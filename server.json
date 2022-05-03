@@ -25,17 +25,9 @@
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
     },
     {
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
-      "name": "Moda da Thayla",
-      "price": "19.99",
-      "description": "Prato da Thayla",
-      "available": true,
-      "id": 4
-    },
-    {
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
       "name": "Carbonara",
-      "price": "25.90",
+      "price": "25.95",
       "description": "Carbonara",
       "available": true,
       "id": 5
