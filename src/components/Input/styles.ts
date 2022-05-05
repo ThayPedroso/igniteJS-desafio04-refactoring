@@ -1,6 +1,11 @@
 import styled, { css } from 'styled-components';
 
-export const Container = styled.div`
+interface ModalProps {
+  isFocused: boolean,
+  isFilled: boolean
+}
+
+export const Container = styled.div<ModalProps>`
   display: flex;
   align-items: center;
 
